@@ -44,7 +44,7 @@ namespace TriAssignment
             string expectedResult = "It is Equilateral";
             string actualResult = TriangleSolver.Analyze(a, b, c);
             Assert.AreEqual(expectedResult, actualResult);
-
+        }
         [Test]
         public void Geta9andb7andc3_expectedresultscalene()
         {

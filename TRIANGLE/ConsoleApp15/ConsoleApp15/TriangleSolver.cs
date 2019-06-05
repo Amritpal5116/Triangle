@@ -8,22 +8,22 @@ namespace triangle
 {
     public static class TriangleSolver
     {
-
+        static string result;
         public static string Analyze(int a, int b, int c)
         {
-            string result = string.Empty;
-            if ((a + b > c) && (b + c > a) && (a + c > b))
+           // string result = string.Empty;
+            if ((a + b) > c && (b + c) > a && (a + c) > b)
             {
                 Console.WriteLine("It is  a triangle");
 
-
-                if (a == b || b == c || a == c)
+                if (a == b && b == c && c == a)
                 {
-                    result = "It is Isosceles";
+                    result = "It is equilateral";
                 }
-                else if (a == b && b == c && c == a)
-                {
-                    result = "It is Equilateral";
+                else 
+                    if (a == b || b == c || a == c)
+                    {
+                    result = "It is isosceles";
                 }
                 else
                 {

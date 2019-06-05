@@ -9,3 +9,13 @@ C:\Users\ABC\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\TRIANGLE!!.csproj.
 C:\Users\ABC\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\TRIANGLE!!.csproj.CopyComplete
 C:\Users\ABC\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
 C:\Users\ABC\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\ABC\Desktop\TRIANGLE\ConsoleApp15\ConsoleApp15\obj\Debug\TRIANGLE!!.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\TRIANGLE\ConsoleApp15\ConsoleApp15\obj\Debug\TRIANGLE!!.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\TRIANGLE\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\ABC\Desktop\TRIANGLE\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\ABC\Desktop\TRIANGLE\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\ABC\Desktop\TRIANGLE\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\ABC\Desktop\TRIANGLE\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\ABC\Desktop\TRIANGLE\ConsoleApp15\ConsoleApp15\bin\Debug\nunit.framework.dll
+C:\Users\ABC\Desktop\TRIANGLE\ConsoleApp15\ConsoleApp15\bin\Debug\nunit.framework.xml
+C:\Users\ABC\Desktop\TRIANGLE\ConsoleApp15\ConsoleApp15\obj\Debug\TRIANGLE!!.csproj.CopyComplete
